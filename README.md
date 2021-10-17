@@ -1,11 +1,9 @@
-##Bachelor-Thesis
+**Bachelor-Thesis**
 
 This is all the code used for my Bachelor Thesis: Study of the temporal architecture of neuronal activity in 
-Alzheimer's Disasease using dynamic functional connectivity techniques. 
+Alzheimer's Disease using dynamic functional connectivity techniques. 
 
-#Previous Steps folder
-
-This folder contains the code used to understand the data provided and make representations. It also includes simple 
+**Previous Steps folder**: This folder contains the code used to understand the data provided and make representations. It also includes simple 
 metrics that lead to the final metrics.
 
 
