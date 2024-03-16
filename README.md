@@ -7,5 +7,5 @@ Alzheimer's Disease using dynamic functional connectivity techniques.
 metrics that lead to the final metrics.
 
 
-The remaining files are composed of the final metrics used for the analysis of the study and some files used to reduce
+The remaining files are composed of the final implementation used for the analysis of the study and some files used to reduce
 the computation cost of each metric.
